@@ -1,6 +1,6 @@
 # Playbook - An Android App for Smart Bathroom Control
 
-### Created as a part of IoT course final project
+### Created as a part of IoT course final project - Team Members: Anush, Mukta, Ronak, Sriya
 
 #### Contents:
 - *Playbook*: Android App code
