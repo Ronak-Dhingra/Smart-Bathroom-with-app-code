@@ -4,9 +4,9 @@
 
 #### Contents:
 - *Playbook*: Android App code
-- *IOT Project.pdf*: Explains all components of our project in detail
 
 #### Brief Description of the project:
+Note: Refer to the smart-bathroom repo for more details. This is just the app code.
 The main goal of the project is to create a Smart Bathroom environment where the user is a button away from controlling the lights, doors, flush, and the seat movements.
 The app was created using the help of MIT App Inventor's codebase and allows for a simple UI interface design. Arduino code (not shown) was integrated along with this app to demonstrate a proper IoT environment.
 
